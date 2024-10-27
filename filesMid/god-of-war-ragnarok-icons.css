@@ -1,0 +1,292 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot?xtsrge');
+  src: url('../fonts/icomoon.eot?xtsrge#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?xtsrge') format('truetype'),
+    url('../fonts/icomoon.woff?xtsrge') format('woff'),
+    url('../fonts/icomoon.svg?xtsrge#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-armor_set:before {
+  content: "\e900";
+  color: #fff;
+}
+
+.icon-ingredient:before {
+  content: "\e901";
+  color: #fff;
+}
+
+.icon-sleeping_troll:before {
+  content: "\e902";
+  color: #fff;
+}
+
+.icon-wood_chest:before {
+  content: "\e903";
+  color: #fff;
+}
+
+.icon-crystalline:before {
+  content: "\e904";
+  color: #fff;
+}
+
+.icon-wishing_well:before {
+  content: "\e905";
+  color: #fff;
+}
+
+.icon-celestial_altar:before {
+  content: "\e906";
+  color: #fff;
+}
+
+.icon-seasonal_stag:before {
+  content: "\e907";
+  color: #fff;
+}
+
+.icon-amulet_enhancement:before {
+  content: "\e908";
+  color: #fff;
+}
+
+.icon-area:before {
+  content: "\e909";
+  color: #fff;
+}
+
+.icon-muspelheim_trial:before {
+  content: "\e90a";
+  color: #fff;
+}
+
+.icon-artifact:before {
+  content: "\e90b";
+  color: #fff;
+}
+
+.icon-barrier:before {
+  content: "\e90c";
+  color: #fff;
+}
+
+.icon-berserker_gravestone:before {
+  content: "\e90d";
+  color: #fff;
+}
+
+.icon-boss:before {
+  content: "\e90e";
+  color: #fff;
+}
+
+.icon-buried_treasure:before {
+  content: "\e90f";
+  color: #fff;
+}
+
+.icon-chest_rune:before {
+  content: "\e910";
+  color: #fff;
+}
+
+.icon-crater_hunt:before {
+  content: "\e911";
+  color: #fff;
+}
+
+.icon-dock:before {
+  content: "\e912";
+  color: #fff;
+}
+
+.icon-draugr_hole:before {
+  content: "\e913";
+  color: #fff;
+}
+
+.icon-easter_egg:before {
+  content: "\e914";
+  color: #fff;
+}
+
+.icon-entrance:before {
+  content: "\e915";
+  color: #fff;
+}
+
+.icon-favor:before {
+  content: "\e916";
+  color: #fff;
+}
+
+.icon-hacksilver:before {
+  content: "\e917";
+  color: #fff;
+}
+
+.icon-hel_tear:before {
+  content: "\e918";
+  color: #fff;
+}
+
+.icon-interactable:before {
+  content: "\e919";
+  color: #fff;
+}
+
+.icon-jewel_of_yggdrasil:before {
+  content: "\e91a";
+  color: #fff;
+}
+
+.icon-kol_raider_camp:before {
+  content: "\e91b";
+  color: #fff;
+}
+
+.icon-kvasirs_poem:before {
+  content: "\e91c";
+  color: #fff;
+}
+
+.icon-legendary_chest:before {
+  content: "\e91d";
+  color: #fff;
+}
+
+.icon-light_bridge:before {
+  content: "\e91e";
+  color: #fff;
+}
+
+.icon-lindwyrm:before {
+  content: "\e91f";
+  color: #fff;
+}
+
+.icon-lore:before {
+  content: "\e920";
+  color: #fff;
+}
+
+.icon-miniboss:before {
+  content: "\e921";
+  color: #fff;
+}
+
+.icon-miscellaneous:before {
+  content: "\e922";
+  color: #fff;
+}
+
+.icon-mystic_gateway:before {
+  content: "\e923";
+  color: #fff;
+}
+
+.icon-nine_realms_in_bloom:before {
+  content: "\e924";
+  color: #fff;
+}
+
+.icon-nornir_chest:before {
+  content: "\e925";
+  color: #fff;
+}
+
+.icon-odins_raven:before {
+  content: "\e926";
+  color: #fff;
+}
+
+.icon-other_loot:before {
+  content: "\e927";
+  color: #fff;
+}
+
+.icon-point_of_interest:before {
+  content: "\e928";
+  color: #fff;
+}
+
+.icon-red_coffin:before {
+  content: "\e929";
+  color: #fff;
+}
+
+.icon-relic:before {
+  content: "\e92a";
+  color: #fff;
+}
+
+.icon-remnant_of_asgard:before {
+  content: "\e92b";
+  color: #fff;
+}
+
+.icon-shield:before {
+  content: "\e92c";
+  color: #fff;
+}
+
+.icon-shop:before {
+  content: "\e92d";
+  color: #fff;
+}
+
+.icon-the_path:before {
+  content: "\e92e";
+  color: #fff;
+}
+
+.icon-transition_line:before {
+  content: "\e92f";
+  color: #fff;
+}
+
+.icon-transition:before {
+  content: "\e930";
+  color: #fff;
+}
+
+.icon-treasure_map:before {
+  content: "\e931";
+  color: #fff;
+}
+
+.icon-yggdrasil_fragment:before {
+  content: "\e932";
+  color: #fff;
+}
+
+.icon-yggdrasil_rift:before {
+  content: "\e933";
+  color: #fff;
+}
+
+.icon-yggdrasils_dew:before {
+  content: "\e934";
+  color: #fff;
+}
